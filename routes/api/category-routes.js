@@ -1,9 +1,8 @@
 const router = require('express').Router();
-const { Category, Product } = require('../../models');
+const { Category, Product, ProductTag } = require('../../models');
 
 
 router.get('/', async (req, res) => {
-  // find all categories
   try {
     const allCategoriesData= await Category.findAll
     ({
