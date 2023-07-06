@@ -6,6 +6,7 @@ Object-Relational Mapping (ORM) Challenge: E-commerce Back End
   - [Installation](#installation)
   - [Usage](#usage)
   - [Credits](#credits)
+  - [Tests](#tests)
   - [License](#license)
   - [Questions](#questions)
 
@@ -39,17 +40,15 @@ Object-Relational Mapping (ORM) Challenge: E-commerce Back End
   node server.js
   ```
   ## Usage 
-   Please refer to the following examples using Insomnia: 
- 1. GET all for Categories, Products and Tags:
-
- 2. GET by id - retrieving information about specific Category, Product or Tag by its id value:
- 3. POST - Creating new Category, Product or Tag 
- 4. PUT - updating the specific Category, Product or Tag by its id value
- 5. DELETE -delete the specific Category, Product or Tag by its id value
+  Please refer to the video below as a test example: 
+   https://watch.screencastify.com/v/G9YClGayh8MNGr5w2438
 
   ## Credits
   - Caleb Curry YouTube Channel, https://www.youtube.com/watch?v=a-o0d_e9mW8 ,
   - StuckOverflow
+  
+  ## Tests
+  The application was test with Insomnia 
   
   ## License
   The project is under MIT License
